@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "idMomento": 2,
+        "idUser": 1,
+        "A": false,
+        "B": true,
+        "C": false
+    },
+    {
+        "id": 2,
+        "idMomento": 2,
+        "idUser": 1,
+        "A": true,
+        "B": false,
+        "C": false
+    },
+    {
+        "id": 3,
+        "idMomento": 3,
+        "idUser": 2,
+        "A": false,
+        "B": true,
+        "C": false
+    },
+    {
+        "id": 4,
+        "idMomento": 4,
+        "idUser": 3,
+        "A": false,
+        "B": true,
+        "C": false
+    },
+    {
+        "id": 5,
+        "idMomento": 4,
+        "idUser": 2,
+        "A": false,
+        "B": true,
+        "C": false
+    },
+    {
+        "id": 6,
+        "idMomento": 4,
+        "idUser": 1,
+        "A": false,
+        "B": false,
+        "C": true
+    },
+    {
+        "id": 7,
+        "idMomento": 5,
+        "idUser": 6,
+        "A": true,
+        "B": false,
+        "C": false
+    }
+]
